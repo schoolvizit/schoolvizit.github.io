@@ -44,6 +44,7 @@ a:hover {
 	margin-top: 1rem;
 	border: 2px solid #fff;
 	border-radius: 0px;
+	width: 7rem;
 }
 
 .header {
@@ -84,14 +85,12 @@ a:hover {
 @media screen and (min-width: 992px) {
 	.btn {
 		margin: 0rem auto;
-		width: 7rem;
-		display: block;
 		margin-top: 1rem; 
 	}
 
  .row__home {
 	 margin-top: 2rem; 
-}
+ }
 
  .header {
 		margin-top: 8rem; 
@@ -100,9 +99,7 @@ a:hover {
 
 @media screen and (max-width: 768px) {
 	.btn  {
-		margin: 1rem auto;
 		margin-bottom: 0rem;
-		width: auto;
 	}
  
  .menu__navig {
